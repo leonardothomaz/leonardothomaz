@@ -1,6 +1,6 @@
 # Leonardo Thomaz
 
-Full Stack Web & Development Supervisor At ICompSoft
+Backend developer At [Codengage](https://codengage.com/)
 
 Software engineering student at [@utfpr-dv](https://github.com/utfpr-dv) and tech enthusiast.
 
