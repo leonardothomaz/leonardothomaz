@@ -1,6 +1,6 @@
 # Leonardo Thomaz
 
-Backend developer At [Codengage](https://codengage.com/)
+Backend developer Senior At [Akross](https://www.akross.com.br/pt/)
 
 Software engineering student at [@utfpr-dv](https://github.com/utfpr-dv) and tech enthusiast.
 
